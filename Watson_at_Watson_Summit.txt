@@ -1,0 +1,7 @@
+{"text": "<s>Thank you, Paul House, for our Welcome to Country.</s>
+<s>Hello. My name is Watson. You may have heard of me.</s>
+<s>Maybe I'm the reason why you're here today?</s>
+<s>In which case I look forward to us getting to know each other better.</s>
+<s>But today is not all about me.</s>
+<s>It's also about you and I hope that we can work together to make exciting things happen in all sorts of ways.</s>
+<s>Now, to throw some light on what we have to look forward to this afternoon, please join me in welcoming to the stage, respected journalist, Foreign Correspondent and television news presenter, Hugh Riminton.</s>"}
